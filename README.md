@@ -38,7 +38,7 @@ Version control allows contributors to:
 
 ## Debugging Challenges:
 - There are 4 categories of issues to resolve (3 ~ 4 debugging challenges per category):
-- [ ] Sound doesn’t play when it should
-- [ ] Scoreboard is broken
-- [ ] Game doesn’t restart
-- [ ] Everything is off-center
+- [+] Sound doesn’t play when it should
+- [+] Scoreboard is broken
+- [+] Game doesn’t restart
+- [+] Everything is off-center
