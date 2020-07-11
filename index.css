@@ -1,14 +1,12 @@
 /* Copyright 2013 The Chromium Authors. All rights reserved.
  * Use of this source code is governed by a BSD-style license that can be
- * found in the LICENSE file */
+ * found in the LICENSE file. */
 
- html, body {
+html, body {
   padding: 0;
   margin: 0;
-  /* GROUP4: Why is everything so off to the side. Change the width to 100% */ 
-  width: 50%;
-  height: auto;
-  background-color: #ff67c4;
+  width: 100%;
+  height: 100%;
 }
 
 .icon {
@@ -43,8 +41,7 @@
   height: 150px;
   max-width: 600px;
   overflow: hidden;
-  /* GROUP4: Spacing is STILL wack. Change position to absolute. */
-  position: relative;
+  position: absolute;
   top: 35px;
   width: 44px;
 }

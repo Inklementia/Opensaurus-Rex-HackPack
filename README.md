@@ -1,44 +1,44 @@
-# Open-saurus Rex
-HackPack for VandyHack's workshop about Open Source on July 11th.
-Credit to https://github.com/wayou/t-rex-runner for source code.
+## t-rex-runner
 
-<img src="https://github.com/wayou/t-rex-runner/raw/gh-pages/assets/screenshot.gif" width="860" align="center"/>
+the trex runner game extracted from chrome offline err page.
 
-## What is Open Source?
-A project is 'open source' if:
-* source code is **freely available** to the public
-* source code can be **copied, modified, and redistributed** by anyone
+see the [source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
 
-## What is Version Control?
-A system that records changes made to a project over time and stores previous or multiple states.
-Think of a Google Doc as an open source project: every time a change is made to the document, it is immediately saved and recorded in the version history of the document. *This is an example of version control.*
 
-### Why is version control useful?
-Version control allows contributors to:
-* backup and restore earlier versions of source code
-* track changes made to source code over time
-* track ownership of changes (who changed what) in collaborative projects
-* stay up-to-date on the latest version of a project (especially useful for collaborative projects)
-<img src="https://www.linode.com/docs/development/version-control/how-to-install-git-and-clone-a-github-repository/git-github-workflow-1000w.png" width="400" align="right"/>
+[go and enjoy! :smile: ](http://wayou.github.io/t-rex-runner/)
 
-### Git vs GitHub
-* __Git:__ a locally installed version control tool for managing and tracking source code history during software development
-* __GitHub:__ a cloud-based hosting service for Git repositories with collaborative features
+![chrome offline game cast](assets/screenshot.gif)
 
-## The Command Line Interface (CLI)
-* `$ git clone https://github.com/link_to_the_repo.git` - download a copy (or clone) an existing repository to your computer
-* `$ git add <file-name>` - mark any changes to files in the repository as ready to be committed (or stage changes)
-* `$ git pull` - download latest information from the remote/original repository (i.e. new branches) & integrate all new commits made to the remote repository into local repository
-* `$ git commit -m “commit message”` - commit and save staged changes locally (in your cloned repository)
-* `$ git push` - upload (or push) cloned/local repository to the remote/original repository
+## Interesting Forks/In Chinese, we call it 「花样玩法」
 
-## Forking and Pull Requests
-* Fork: Get a copy of the repo that you own and can do anything with
-* Pull Request: After you make changes of a fork, ask the owner of the main repo to apply them. Also good practice to do this with branches on your own projects!
+- [vianroyal](https://github.com/vianroyal)/[t-rex-runner](https://github.com/vianroyal/t-rex-runner) [Kumamon runner](http://vianroyal.github.io/t-rex-runner/) 
+<br>
 
-## Debugging Challenges:
-- There are 4 categories of issues to resolve (3 ~ 4 debugging challenges per category):
-- [ ] Sound doesn’t play when it should
-- [ ] Scoreboard is broken
-- [ ] Game doesn’t restart
-- [ ] Everything is off-center
+![](assets/kumamon-runner.gif)
+
+- [xkuga](https://github.com/xkuga)/[t-rex-runner](https://github.com/xkuga/t-rex-runner) [Hello KuGou](http://hellokugou.com/) 
+<br>
+
+![](assets/hello-kugou.gif)
+
+- [d-nery](https://github.com/d-nery/)/[t-rex-runner](https://github.com/d-nery/t-rex-runner) [Novas coisas](http://d-nery.github.io/t-rex-runner/) 
+<br>
+
+![](assets/novas-coisas.gif)
+
+- [chirag64](https://github.com/chirag64)/[t-rex-runner-bot](https://github.com/chirag64/t-rex-runner-bot) [t-rex runner bot](https://chirag64.github.io/t-rex-runner-bot/) 
+<br>
+
+![](assets/t-rex-runner-bot.gif)
+
+- [19janil](https://github.com/19janil)/[t-rex-runner](https://github.com/19janil/t-rex-runner) [t-rex runner](https://19janil.github.io/t-rex-runner/) 
+<br>
+
+![](assets/t-rex-runner-19janil.gif)
+
+- [enthus1ast](https://github.com/enthus1ast)/[chromeTrip](https://github.com/enthus1ast/chromeTrip) [Chrome Trip by code0](https://code0.itch.io/chrome-trip) 
+<br>
+
+![](https://user-images.githubusercontent.com/13794470/37289691-964618be-260a-11e8-8c4a-6df04d6c490d.gif)
+
+
